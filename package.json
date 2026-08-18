@@ -1,0 +1,15 @@
+{
+  "name": "action-firewall",
+  "version": "1.0.0",
+  "description": "Deterministic post-generation, pre-tool-execution action firewall",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
